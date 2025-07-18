@@ -82,6 +82,6 @@ This project is created for academic and research purposes.
 
 ## Contact
 For questions,feedback or collaboration:
-- Name : K.Sasank
+- Name : Kurmana Sasank
 - Email : kurmanasasank5656@gmail.com
-- Github :
+- Github : https://github.com/Kurmana-sasank
